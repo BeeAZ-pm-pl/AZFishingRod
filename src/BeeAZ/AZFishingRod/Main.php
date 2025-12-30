@@ -136,7 +136,7 @@ class Main extends PluginBase
 
         $p->sendForm(new MenuForm(
             "§l§e⚡ FISHING ⚡",
-            "§fTài sản hiện có:\n§a💵 Xu: $m\n§6👑 Gold: $g\n\n§7Chọn một tính năng bên dưới:",
+            "§fTài sản hiện có:\n§aXu: $m\n§6Gold: $g\n\n§7Chọn một tính năng bên dưới:",
             [
                 new MenuOption("§l§c⚡ MUA CẦN CÂU ⚡\n§r§8Nâng cấp trang bị"),
                 new MenuOption("§l§b⚡ BÁN CÁ ⚡\n§r§8Kiếm tiền nhanh"),
@@ -329,4 +329,5 @@ class Main extends PluginBase
         }
     }
 }
+
 
