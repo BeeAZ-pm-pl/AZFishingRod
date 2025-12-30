@@ -165,7 +165,7 @@ class Main extends PluginBase
                     default => "§f"
                 };
                 $date = date("d/m H:i", strtotime($row['caught_at']));
-                $content .= "$color#$rank §b{$row['username']} §f- §a{$row['fish_name']} §e({$row['fish_length']}cm)\n§7📅 $date\n\n";
+                $content .= "$color#$rank §b{$row['username']} §f- §a{$row['fish_name']} §e({$row['fish_length']}cm)\n§7 $date\n\n";
                 $rank++;
             }
         } else {
@@ -329,3 +329,4 @@ class Main extends PluginBase
         }
     }
 }
+
