@@ -32,9 +32,6 @@ Plugin được phát triển nhằm khơi dậy niềm đam mê làm server Sur
 - Phần thưởng: **5000 Xu**
 
 ### 🖥️ Giao Diện UI
-- Menu **Mua Cần** & **Bán Cá**
-- Thiết kế hiệu ứng ⚡ SẤM SÉT ⚡
-- Đóng form tự quay lại menu chính
 - Sử dụng thư viện **pmforms**
 
 ---
