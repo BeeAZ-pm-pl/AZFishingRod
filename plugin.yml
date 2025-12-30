@@ -1,0 +1,12 @@
+name: AZFishingRod
+version: 1.0.0
+main: BeeAZ\AZFishingRod\Main
+api: 5.0.0
+author: BeeAZ
+commands:
+  fishing:
+    description: Open Fishing Menu
+    permission: azfishingrod.command
+permissions:
+  azfishingrod.command:
+    default: true
